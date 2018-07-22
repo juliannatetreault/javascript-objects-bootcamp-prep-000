@@ -1,5 +1,6 @@
 var playlist = new Object({
-  artistName: 'song title'
+  Slowdive: 'Alison',
+  
 });
 
 function updatePlaylist(playlist, artistName, songTitle) {
